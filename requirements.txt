@@ -1,4 +1,5 @@
 streamlit
+xgboost
 numpy
 matplotlib
 joblib
